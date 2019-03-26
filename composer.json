@@ -1,0 +1,13 @@
+{
+    "name": "boilerkit/craft-bin",
+    "authors": [
+        {
+            "name": "Branden Garrett",
+            "email": "branden.garrett@gmail.com"
+        }
+    ],
+    "bin": ["bin/craft"],
+    "require": {
+        "craftcms/cms": "^3.1"
+    }
+}
