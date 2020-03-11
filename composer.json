@@ -1,5 +1,6 @@
 {
     "name": "boilerkit/craft-bin",
+    "version": "1.1.0",
     "authors": [
         {
             "name": "Branden Garrett",
@@ -8,6 +9,7 @@
     ],
     "bin": ["bin/craft"],
     "require": {
-        "craftcms/cms": "^3.1"
+        "craftcms/cms": "^3.4.0",
+        "vlucas/phpdotenv": "^3.4.0"
     }
 }
