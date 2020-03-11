@@ -8,6 +8,7 @@
     ],
     "bin": ["bin/craft"],
     "require": {
-        "craftcms/cms": "^3.1"
+        "craftcms/cms": "^3.4.0",
+        "vlucas/phpdotenv": "^3.4.0"
     }
 }
